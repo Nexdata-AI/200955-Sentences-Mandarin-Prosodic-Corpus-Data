@@ -2,7 +2,7 @@
 
 ## Description
 4 prosodic hierarchies annotating for the 200000 carefully selected Chinese texts which involve news and colloquial sentences. The sentence length is appropriate with diversified sentence patterns. This can be used as a TTS front-end prosody prediction training data set.
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1027?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/tts/1027?source=Github
 
 
 # Specifications
